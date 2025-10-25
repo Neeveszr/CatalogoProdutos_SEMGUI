@@ -5,6 +5,8 @@ Este projeto é um **sistema simples de Catálogo de Produtos** desenvolvido em 
 O sistema permite **cadastrar, listar, atualizar e excluir produtos**, tudo via console.  
 Ideal para quem está aprendendo integração entre Java e bancos NoSQL.
 
+Video explicando o projeto! https://www.youtube.com/watch?v=mR1aK8BKOkc
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
