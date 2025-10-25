@@ -10,7 +10,7 @@ import com.mongodb.client.MongoDatabase;
 
 public class MongoConnection {
     private static final String CONNECTION_STRING =
-        "mongodb+srv://neveszr12_db_user:Jun8wpj7LDohpEm4@cluster0.cxyaif3.mongodb.net/?appName=Cluster0";
+        "mongodb+srv://usuario:senha@cluster0.mongodb.net/?retryWrites=true&w=majority";
 
     private static MongoDatabase database;
 
@@ -39,3 +39,4 @@ public class MongoConnection {
         return database;
     }
 }
+
